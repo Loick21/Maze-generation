@@ -1,0 +1,39 @@
+body{
+    background-color: #333;
+    color: white;
+}
+
+.title-maze{
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+    font-family: 'Lobster','Arial';
+}
+
+h1{
+    font-size: 45px;
+}
+
+.dot-color{
+    color: tomato;
+}
+
+.about{
+    margin-top: 5rem;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    color: #333;
+}
+.container-form{
+    padding: 40px 30px 30px 40px;
+    border-radius: 30px;
+    background-color: white;
+    margin: 2px auto;
+}
+
+.btn-primary{
+    background-color: tomato;
+    border-color: tomato;
+}
